@@ -1,0 +1,5 @@
+O:\Projects\mstrsec\mstrsec\bin\Release\mstrsec.exe.config
+O:\Projects\mstrsec\mstrsec\bin\Release\mstrsec.exe
+O:\Projects\mstrsec\mstrsec\bin\Release\mstrsec.pdb
+O:\Projects\mstrsec\mstrsec\obj\Release\mstrsec.exe
+O:\Projects\mstrsec\mstrsec\obj\Release\mstrsec.pdb

@@ -1,0 +1,5 @@
+O:\Projects\mstrsec\mstrsec\bin\Debug\mstrsec.exe.config
+O:\Projects\mstrsec\mstrsec\bin\Debug\mstrsec.exe
+O:\Projects\mstrsec\mstrsec\bin\Debug\mstrsec.pdb
+O:\Projects\mstrsec\mstrsec\obj\Debug\mstrsec.exe
+O:\Projects\mstrsec\mstrsec\obj\Debug\mstrsec.pdb

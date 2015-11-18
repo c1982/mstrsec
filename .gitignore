@@ -1,0 +1,6 @@
+*.exe
+*.pdb
+*.manifest
+*.cache
+mstrsec/obj/Debug/TemporaryGeneratedFile*.cs
+mstrsec/obj/Release/TemporaryGeneratedFile*.cs
